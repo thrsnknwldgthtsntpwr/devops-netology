@@ -1,1 +1,2 @@
 # devops-netology
+THERE IS NO KNOWLEDGE THAT IS NOT POWER
